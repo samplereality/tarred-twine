@@ -1,7 +1,7 @@
 # An End of Tarred Twine
 [An End of Tarred Twine](https://fugitivetexts.net/tarredtwine/index.html) is a randomly generated Twine hypertext version of _Moby Dick_. It's interactive and nonlinear and serendipitously fun. But good luck following the story!
 
-I created this Twine version of _Moby Dick_ for National Novel Generation Month (NaNoGenMo) 2019. The heart of the project is a Python program that breaks Herman Melville's 1851 masterpiece into 2,463 indiviudual Twine passages. Next, the program uses the SpaCy natural language processing module to identify several named entities and verbs in each passage, and then link them randomly to one of the other over 2,463 passages. The program generates a twee file (twee being the equivalent of Twine markup). Finally, I use the command line compiler Tweego to generate the actual Twine HTML file.  
+I created this Twine version of _Moby Dick_ for National Novel Generation Month (NaNoGenMo) 2019. The heart of the project is a Python program that breaks Herman Melville's 1851 masterpiece into 2,463 individual Twine passages. Next, the program uses the SpaCy natural language processing module to identify several named entities and verbs in each passage, and then link them randomly to one of the other over 2,463 passages. The program generates a twee file (twee being the equivalent of Twine markup). Finally, I use the command line compiler Tweego to generate the actual Twine HTML file.  
 
 Necessary components are:
 * A cleaned up unicode text version of Moby Dick
