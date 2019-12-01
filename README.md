@@ -17,4 +17,4 @@ Some stats:
 
 Screenshot:
 
-[Title Page for An End of Tarred Twine](https://github.com/samplereality/tarred-twine/blob/master/tarredTwineCover.png)
+![Title Page for An End of Tarred Twine](https://github.com/samplereality/tarred-twine/blob/master/tarredTwineCover.png)
