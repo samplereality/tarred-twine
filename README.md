@@ -14,3 +14,6 @@ Some stats:
 * 2463 passages (or nodes)
 * 6476 links between the passages
 * 2.63 average links on any single passage
+
+Screenshot:
+
